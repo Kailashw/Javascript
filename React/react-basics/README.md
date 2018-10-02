@@ -131,7 +131,7 @@ We are always open to [your feedback](https://github.com/facebook/create-react-a
 After creation, your project should look like this:
 
 ```
-my-app/
+react-basics/
   README.md
   node_modules/
   package.json
@@ -2152,7 +2152,7 @@ For more information see [Add Firebase to your JavaScript Project](https://fireb
 Open your `package.json` and add a `homepage` field for your project:
 
 ```json
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://myusername.github.io/react-basics",
 ```
 
 or for a GitHub user page:
@@ -2173,7 +2173,7 @@ Create React App uses the `homepage` field to determine the root URL in the buil
 
 Now, whenever you run `npm run build`, you will see a cheat sheet with instructions on how to deploy to GitHub Pages.
 
-To publish it at [https://myusername.github.io/my-app](https://myusername.github.io/my-app), run:
+To publish it at [https://myusername.github.io/react-basics](https://myusername.github.io/react-basics), run:
 
 ```sh
 npm install --save gh-pages
