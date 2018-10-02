@@ -1,6 +1,12 @@
-# Javascript
-This Repository would contain commits related to front end technologies.
+# React_Basics
+This Repository would contain commits related to applications built using React.
 
+NOTE: To work on any particular project under this
+   * clone the entire 'React_Basics' to the local.
+   * change directory to the required app. 
+      ex : cd react-todo
+   * run "yarn install" command
+   * run "yarn start" command
 
 1. 'react-basics' teaches the following.
     * create your first react app.
@@ -11,6 +17,7 @@ This Repository would contain commits related to front end technologies.
     * remove a todo from the todos list.
     * mark a todo as completed.
     * fetch a particular 'todo' details based on 'id' parameter.
+    * mockapi.io is used to generate dummy data.
 3. 'react-redux' is a simple react-app which lets you use redux in it. This app is for absolute beginners to learn the usage of redux in a react-app.
 4. 'redux-todo' is a simple 'react-redux' application which,
     * combines what we learnt in 'react-todo' app and 'react-redux' app.
