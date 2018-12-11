@@ -8,3 +8,6 @@ This project was forked with [Create React App](https://github.com/facebook/crea
   * add todo.
   * remove todo.
   * mark a todo as completed.
+
+
+PS : you can replace mocker_api with your own api endpoint in the todo.js file
